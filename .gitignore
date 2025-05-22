@@ -1,0 +1,52 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.map
+
+# Arduino sketch build
+*.ino.cpp
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code folders
+.vscode/
+
+# PlatformIO folders
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino libraries
+libraries/
+
+# Build directories
+build/
